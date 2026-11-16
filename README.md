@@ -1,5 +1,12 @@
 ﻿
 # TecnoPuntoInventario
+Datos de los integrantes
+
+Estudiante: Luis Miguel
+Matrícula: 2024-1259
+
+Estudiante: Eirin Idalgis
+Matrícula: 2024-1270
 
 ## 1. Descripción del proyecto
 TecnoPuntoInventario es un sistema de consola desarrollado en C# que permite registrar y controlar productos de una tienda de tecnología.
